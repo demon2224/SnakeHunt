@@ -1,3 +1,3 @@
 SP25 - Semester 03
 
-Rắn săn mồi.
+Trò chơi rắn săn mồi.
